@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::Result;   
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("9jymQHudchDGEvMTSq5duPYes3L64JTmwDy4L1WhUvjz");
 
 #[program]
 pub mod helloprojtweet {
